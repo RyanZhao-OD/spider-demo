@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/ryanzhao1993/spider-demo#readme",
   "dependencies": {
+    "async": "^2.1.4",
+    "cheerio": "^0.22.0",
+    "child_process": "^1.0.2",
+    "cron": "^1.1.1",
+    "iconv-lite": "^0.4.15",
     "request": "^2.79.0"
   }
 }
